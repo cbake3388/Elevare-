@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{--elevare-navy:#1E293B;--elevare-teal:#14B8A6;--elevare-coral:#F472B6;--elevare-gray:#F3F4F6;}
+body{font-family:'Poppins',system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial,'Noto Sans','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';}
+h1,h2,h3,h4,h5,.font-display{font-family:'Montserrat',system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial;}
+.rounded-brand{border-radius:1rem;}
+.shadow-soft{box-shadow:0 8px 24px rgba(30,41,59,.08);}
